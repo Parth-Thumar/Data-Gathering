@@ -1,0 +1,11 @@
+Project_ID	Project_Name	Manager	Department	Status	Start_Date	End_Date	Budget	Progress
+P001	Website Redesign	Amit Patel	IT	In Progress	2026-01-10	2026-04-30	150000	65
+P002	Mobile App Development	Neha Shah	IT	Planning	2026-02-01	2026-08-31	350000	20
+P003	Marketing Campaign	Rahul Mehta	Marketing	Completed	2025-11-01	2026-01-15	80000	100
+P004	Data Migration	Priya Desai	IT	In Progress	2026-03-01	2026-06-30	200000	45
+P005	Customer Survey	Karan Joshi	Research	On Hold	2026-01-20	2026-05-20	50000	30
+P006	Inventory System	Maya Trivedi	Operations	Planning	2026-04-01	2026-09-30	175000	10
+P007	Employee Training	Ravi Shah	HR	Completed	2025-12-01	2026-02-28	40000	100
+P008	Cloud Setup	Anjali Parmar	IT	In Progress	2026-02-15	2026-07-15	225000	55
+P009	Product Launch	Dev Shah	Marketing	Planning	2026-05-01	2026-10-31	120000	5
+P010	Office Renovation	Nisha Patel	Administration	On Hold	2026-03-10	2026-08-10	300000	15
